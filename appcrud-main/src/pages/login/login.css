@@ -1,0 +1,10 @@
+body {
+    background-color: #508bfc;
+  }
+  .login-button {
+    font-size: 15px; 
+    padding: 10px 20px; 
+    background-color: #1f3d75;
+    border-radius: 6px; /* Corrija o valor da borda */
+    color: #fff; /* Cor do texto */
+}
